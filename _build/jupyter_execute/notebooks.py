@@ -21,3 +21,12 @@
 # 
 # And some more text for demonstration.
 # ````
+
+# ````{admonition} Click here!
+# :class: dropdown
+# Here is a figure. The dropdown menu collapsed all the way.
+# ```{figure} image.png
+# ---
+# width: 300px
+# ```
+# ````
